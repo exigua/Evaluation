@@ -1,0 +1,37 @@
+.guitar {
+    color: red;
+    border-radius: 12px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.amp {
+    color: red;
+    border-radius: 12px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h5 {
+    color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+a:hover {
+    background-color: yellow;
+}
+
+.body1 {
+    background-color: rgb(85, 68, 231);
+    color: white;
+}
+.para {
+    color: lightblue;
+}
